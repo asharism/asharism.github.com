@@ -2,7 +2,7 @@ title: Asharism
 description: My first attempt at Github Pages and Jekyll
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-hacker
+remote_theme: hyde
 
 gems:
   - jekyll-mentions
