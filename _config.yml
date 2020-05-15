@@ -6,3 +6,5 @@ remote_theme: jekyll-theme-hyde
 
 gems:
   - jekyll-mentions
+
+theme: jekyll-theme-hacker
